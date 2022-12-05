@@ -1,5 +1,8 @@
 bin/
 target/
+.classpath
+.project
+.settings/
 *~
 git rm -r --cached .metadata
 git rm --cached doNotTrackFile.txt
