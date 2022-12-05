@@ -1,0 +1,8 @@
+bin/
+target/
+*~
+git rm -r --cached .metadata
+git rm --cached doNotTrackFile.txt
+.metadata
+.DS_Store
+._*
